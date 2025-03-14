@@ -1,0 +1,557 @@
+"STUDY","BCR_STATUS","HISTOLOGICAL_DIAGNOSIS","AGE","SEX","OS_MONTHS","OS_STATUS","KARNOFSKY_PERFORMANCE_SCORE"
+"TCGA-06-0645","Glioblastoma multiforme","IGC","glioblastoma",55,"Female",5.7,"1",NA
+"TCGA-HT-A74J","Brain Lower Grade Glioma","IGC","oligoastrocytoma",33,"Male",10.5,"0",NA
+"TCGA-E1-5303","Brain Lower Grade Glioma","IGC","astrocytoma",38,"Male",67.4,"1",80
+"TCGA-DU-5854","Brain Lower Grade Glioma","IGC","astrocytoma",57,"Female",8.4,"0",90
+"TCGA-HT-7472","Brain Lower Grade Glioma","IGC","oligodendroglioma",38,"Male",0,"0",NA
+"TCGA-DU-A7TA","Brain Lower Grade Glioma","IGC","oligodendroglioma",32,"Male",77.8,"0",80
+"TCGA-12-5299","Glioblastoma multiforme","IGC","glioblastoma",56,"Female",3.2,"1",80
+"TCGA-DB-A75K","Brain Lower Grade Glioma","IGC","oligoastrocytoma",55,"Female",7.4,"0",NA
+"TCGA-DU-A5TP","Brain Lower Grade Glioma","IGC","astrocytoma",33,"Male",14.2,"0",70
+"TCGA-HT-8564","Brain Lower Grade Glioma","IGC","astrocytoma",47,"Male",15.7,"0",80
+"TCGA-DB-5276","Brain Lower Grade Glioma","IGC","oligoastrocytoma",32,"Male",72.9,"0",NA
+"TCGA-P5-A72W","Brain Lower Grade Glioma","NCH","astrocytoma",35,"Male",0.3,"0",NA
+"TCGA-06-5418","Glioblastoma multiforme","IGC","glioblastoma",75,"Female",2.7,"1",60
+"TCGA-E1-A7YJ","Brain Lower Grade Glioma","IGC","",NA,"",NA,NA,NA
+"TCGA-12-0615","Glioblastoma multiforme","IGC","glioblastoma",78,"Female",15.3,"1",60
+"TCGA-06-0154","Glioblastoma multiforme","IGC","glioblastoma",54,"Male",13.9,"1",100
+"TCGA-S9-A6U1","Brain Lower Grade Glioma","NCH","astrocytoma",22,"Female",11.3,"0",100
+"TCGA-HT-8109","Brain Lower Grade Glioma","IGC","oligodendroglioma",64,"Male",3.9,"0",NA
+"TCGA-76-6657","Glioblastoma multiforme","IGC","glioblastoma",74,"Male",5,"1",80
+"TCGA-HT-7884","Brain Lower Grade Glioma","IGC","astrocytoma",44,"Female",11.3,"0",80
+"TCGA-08-0386","Glioblastoma multiforme","IGC","glioblastoma",74,"Male",18,"1",80
+"TCGA-06-0124","Glioblastoma multiforme","IGC","glioblastoma",67,"Male",20.4,"1",NA
+"TCGA-FG-A6IZ","Brain Lower Grade Glioma","IGC","oligodendroglioma",60,"Male",4.2,"0",NA
+"TCGA-HT-7686","Brain Lower Grade Glioma","IGC","astrocytoma",29,"Female",42.7,"0",NA
+"TCGA-HT-A616","Brain Lower Grade Glioma","IGC","astrocytoma",36,"Female",1.8,"0",NA
+"TCGA-TQ-A7RS","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-HT-8110","Brain Lower Grade Glioma","IGC","astrocytoma",57,"Male",4.7,"0",NA
+"TCGA-76-6661","Glioblastoma multiforme","IGC","glioblastoma",54,"Male",0.2,"0",60
+"TCGA-E1-5318","Brain Lower Grade Glioma","IGC","oligodendroglioma",42,"Female",78.2,"1",100
+"TCGA-HT-8111","Brain Lower Grade Glioma","IGC","oligoastrocytoma",32,"Male",0.2,"0",NA
+"TCGA-S9-A6TX","Brain Lower Grade Glioma","NCH","oligodendroglioma",46,"Male",28.1,"0",100
+"TCGA-76-4931","Glioblastoma multiforme","IGC","glioblastoma",70,"Female",9.2,"1",80
+"TCGA-14-1395","Glioblastoma multiforme","IGC","glioblastoma",52,"Male",1.4,"1",80
+"TCGA-HT-8104","Brain Lower Grade Glioma","IGC","astrocytoma",51,"Female",12.2,"0",NA
+"TCGA-81-5911","Glioblastoma multiforme","IGC","glioblastoma",33,"Male",17.7,"0",NA
+"TCGA-76-6192","Glioblastoma multiforme","IGC","glioblastoma",74,"Male",3.3,"1",80
+"TCGA-P5-A5EY","Brain Lower Grade Glioma","NCH","astrocytoma",21,"Male",2.4,"0",NA
+"TCGA-FG-7643","Brain Lower Grade Glioma","IGC","oligoastrocytoma",49,"Female",20.1,"0",NA
+"TCGA-06-0122","Glioblastoma multiforme","IGC","glioblastoma",84,"Female",6.1,"1",NA
+"TCGA-HT-7470","Brain Lower Grade Glioma","IGC","oligodendroglioma",37,"Male",8.8,"0",90
+"TCGA-WY-A85C","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-P5-A72U","Brain Lower Grade Glioma","NCH","oligodendroglioma",71,"Female",0.2,"0",NA
+"TCGA-28-5218","Glioblastoma multiforme","IGC","glioblastoma",63,"Male",5.2,"1",NA
+"TCGA-HT-7605","Brain Lower Grade Glioma","IGC","oligodendroglioma",38,"Male",4.6,"0",NA
+"TCGA-12-0688","Glioblastoma multiforme","IGC","glioblastoma",74,"Male",26.6,"1",100
+"TCGA-HT-7689","Brain Lower Grade Glioma","IGC","oligodendroglioma",58,"Female",14.9,"0",60
+"TCGA-R8-A6MK","Brain Lower Grade Glioma","NCH","oligodendroglioma",40,"Male",88.8,"0",NA
+"TCGA-DU-A5TS","Brain Lower Grade Glioma","IGC","oligodendroglioma",42,"Male",15.1,"0",100
+"TCGA-QH-A65X","Brain Lower Grade Glioma","NCH","oligoastrocytoma",28,"Female",7.8,"0",90
+"TCGA-CS-4942","Brain Lower Grade Glioma","IGC","astrocytoma",44,"Female",43.9,"1",90
+"TCGA-QH-A6CS","Brain Lower Grade Glioma","NCH","astrocytoma",41,"Male",4.2,"0",90
+"TCGA-S9-A6TW","Brain Lower Grade Glioma","NCH","oligodendroglioma",40,"Male",28.3,"0",90
+"TCGA-27-1835","Glioblastoma multiforme","IGC","glioblastoma",53,"Female",21.3,"1",80
+"TCGA-14-1456","Glioblastoma multiforme","IGC","glioblastoma",23,"Male",40.9,"0",80
+"TCGA-DB-A64O","Brain Lower Grade Glioma","IGC","oligoastrocytoma",59,"Male",18.8,"0",NA
+"TCGA-76-6191","Glioblastoma multiforme","IGC","glioblastoma",57,"Male",16.7,"1",80
+"TCGA-DB-A4XC","Brain Lower Grade Glioma","IGC","oligoastrocytoma",26,"Male",27.6,"0",NA
+"TCGA-DU-7012","Brain Lower Grade Glioma","IGC","astrocytoma",74,"Female",6.5,"1",NA
+"TCGA-87-5896","Glioblastoma multiforme","IGC","glioblastoma",50,"Female",0.1,"0",NA
+"TCGA-DU-7292","Brain Lower Grade Glioma","IGC","astrocytoma",69,"Male",8,"1",NA
+"TCGA-HW-7491","Brain Lower Grade Glioma","IGC","oligodendroglioma",35,"Male",40.1,"0",NA
+"TCGA-19-2631","Glioblastoma multiforme","IGC","glioblastoma",74,"Female",7,"1",60
+"TCGA-DU-5870","Brain Lower Grade Glioma","IGC","oligodendroglioma",34,"Female",182.2,"0",70
+"TCGA-VM-A8CE","Brain Lower Grade Glioma","NCH","oligodendroglioma",25,"Male",26.8,"0",90
+"TCGA-06-0192","Glioblastoma multiforme","IGC","glioblastoma",58,"Male",18.3,"0",100
+"TCGA-CS-6666","Brain Lower Grade Glioma","IGC","astrocytoma",22,"Male",8.5,"0",90
+"TCGA-P5-A72X","Brain Lower Grade Glioma","NCH","astrocytoma",21,"Male",0.3,"0",NA
+"TCGA-HT-7608","Brain Lower Grade Glioma","IGC","oligoastrocytoma",61,"Male",22,"0",NA
+"TCGA-HW-7486","Brain Lower Grade Glioma","IGC","oligodendroglioma",37,"Male",29.9,"0",NA
+"TCGA-12-3650","Glioblastoma multiforme","IGC","glioblastoma",46,"Male",10.9,"1",80
+"TCGA-14-0813","Glioblastoma multiforme","IGC","glioblastoma",78,"Male",1.3,"1",60
+"TCGA-DU-6395","Brain Lower Grade Glioma","IGC","oligoastrocytoma",31,"Male",49,"1",NA
+"TCGA-28-5216","Glioblastoma multiforme","IGC","glioblastoma",52,"Male",13.6,"0",80
+"TCGA-76-6286","Glioblastoma multiforme","IGC","glioblastoma",60,"Male",21,"1",80
+"TCGA-P5-A731","Brain Lower Grade Glioma","NCH","oligoastrocytoma",59,"Female",0.2,"0",90
+"TCGA-HT-8108","Brain Lower Grade Glioma","IGC","oligodendroglioma",26,"Female",2.5,"0",NA
+"TCGA-DU-A7TD","Brain Lower Grade Glioma","IGC","oligoastrocytoma",52,"Male",7.5,"1",60
+"TCGA-06-0745","Glioblastoma multiforme","IGC","glioblastoma",59,"Male",7.9,"1",80
+"TCGA-DU-7009","Brain Lower Grade Glioma","IGC","oligodendroglioma",32,"Female",138.2,"0",NA
+"TCGA-76-4928","Glioblastoma multiforme","IGC","glioblastoma",85,"Female",3.1,"1",80
+"TCGA-S9-A6TS","Brain Lower Grade Glioma","NCH","astrocytoma",48,"Female",62.1,"1",100
+"TCGA-DU-6405","Brain Lower Grade Glioma","IGC","astrocytoma",51,"Female",19.9,"1",90
+"TCGA-EZ-7264","Brain Lower Grade Glioma","IGC","oligodendroglioma",47,"Female",14.3,"0",NA
+"TCGA-DH-5140","Brain Lower Grade Glioma","IGC","oligoastrocytoma",38,"Female",19.9,"1",90
+"TCGA-HT-8013","Brain Lower Grade Glioma","IGC","oligoastrocytoma",37,"Female",63.5,"1",NA
+"TCGA-DH-A66B","Brain Lower Grade Glioma","IGC","astrocytoma",52,"Male",42,"0",90
+"TCGA-HT-8010","Brain Lower Grade Glioma","IGC","oligodendroglioma",64,"Female",1.6,"0",NA
+"TCGA-06-A6S1","Glioblastoma multiforme","IGC","glioblastoma",53,"Female",2.6,"1",60
+"TCGA-QH-A6CW","Brain Lower Grade Glioma","NCH","oligoastrocytoma",43,"Male",0,"0",90
+"TCGA-14-0786","Glioblastoma multiforme","IGC","glioblastoma",50,"Female",23,"1",80
+"TCGA-S9-A6WP","Brain Lower Grade Glioma","NCH","oligoastrocytoma",42,"Male",6.1,"0",100
+"TCGA-S9-A7R1","Brain Lower Grade Glioma","NCH","oligodendroglioma",35,"Male",164.3,"0",90
+"TCGA-DU-7299","Brain Lower Grade Glioma","IGC","astrocytoma",33,"Male",44,"1",90
+"TCGA-06-2558","Glioblastoma multiforme","IGC","glioblastoma",75,"Female",12.5,"1",60
+"TCGA-27-2527","Glioblastoma multiforme","IGC","glioblastoma",81,"Male",14.4,"1",80
+"TCGA-02-2485","Glioblastoma multiforme","IGC","glioblastoma",53,"Male",15.4,"0",80
+"TCGA-DU-A76L","Brain Lower Grade Glioma","IGC","oligodendroglioma",54,"Male",26.7,"1",NA
+"TCGA-HT-A5RC","Brain Lower Grade Glioma","IGC","astrocytoma",70,"Female",5.3,"1",40
+"TCGA-TQ-A7RK","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-06-0216","Glioblastoma multiforme","IGC","glioblastoma",61,"Female",24.1,"1",80
+"TCGA-DB-A64Q","Brain Lower Grade Glioma","IGC","oligoastrocytoma",31,"Female",6,"0",90
+"TCGA-HT-7611","Brain Lower Grade Glioma","IGC","oligoastrocytoma",36,"Male",57.6,"0",90
+"TCGA-S9-A7QZ","Brain Lower Grade Glioma","NCH","oligodendroglioma",41,"Male",13,"0",100
+"TCGA-32-1979","Glioblastoma multiforme","IGC","glioblastoma",69,"Female",19.5,"1",NA
+"TCGA-DB-5277","Brain Lower Grade Glioma","IGC","astrocytoma",34,"Male",50.8,"1",NA
+"TCGA-06-0188","Glioblastoma multiforme","IGC","glioblastoma",71,"Male",28.5,"0",100
+"TCGA-HT-7482","Brain Lower Grade Glioma","IGC","oligoastrocytoma",18,"Female",60,"0",NA
+"TCGA-06-0140","Glioblastoma multiforme","IGC","glioblastoma",86,"Male",0.2,"1",90
+"TCGA-12-0616","Glioblastoma multiforme","IGC","glioblastoma",36,"Female",14.7,"1",100
+"TCGA-32-4719","Glioblastoma multiforme","IGC","glioblastoma",73,"Male",10.8,"1",NA
+"TCGA-41-2575","Glioblastoma multiforme","IGC","glioblastoma",75,"Male",9.5,"1",60
+"TCGA-74-6584","Glioblastoma multiforme","IGC","glioblastoma",55,"Female",7.5,"0",80
+"TCGA-S9-A7R7","Brain Lower Grade Glioma","NCH","astrocytoma",27,"Male",83.7,"0",80
+"TCGA-QH-A65R","Brain Lower Grade Glioma","NCH","oligodendroglioma",38,"Female",5.7,"0",100
+"TCGA-02-2483","Glioblastoma multiforme","IGC","glioblastoma",43,"Male",15.3,"0",80
+"TCGA-19-A6J4","Glioblastoma multiforme","IGC","glioblastoma",68,"Male",4,"1",NA
+"TCGA-HT-7468","Brain Lower Grade Glioma","IGC","oligodendroglioma",30,"Male",6.7,"0",80
+"TCGA-FG-A6J3","Brain Lower Grade Glioma","IGC","astrocytoma",52,"Female",10.6,"0",90
+"TCGA-HT-8106","Brain Lower Grade Glioma","IGC","astrocytoma",53,"Male",0.1,"0",NA
+"TCGA-06-6390","Glioblastoma multiforme","IGC","glioblastoma",58,"Male",5.4,"1",80
+"TCGA-06-0125","Glioblastoma multiforme","IGC","glioblastoma",63,"Female",47.6,"1",60
+"TCGA-06-0190","Glioblastoma multiforme","IGC","glioblastoma",62,"Male",10.4,"1",80
+"TCGA-S9-A6WO","Brain Lower Grade Glioma","NCH","astrocytoma",29,"Male",7.6,"0",100
+"TCGA-TQ-A7RH","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-FG-6688","Brain Lower Grade Glioma","IGC","astrocytoma",59,"Female",18.8,"0",80
+"TCGA-HT-7676","Brain Lower Grade Glioma","IGC","oligodendroglioma",26,"Male",0.2,"0",NA
+"TCGA-HT-7695","Brain Lower Grade Glioma","IGC","oligodendroglioma",29,"Female",14.5,"0",NA
+"TCGA-14-0789","Glioblastoma multiforme","IGC","glioblastoma",54,"Male",11.2,"1",40
+"TCGA-76-6283","Glioblastoma multiforme","IGC","",NA,"",NA,NA,NA
+"TCGA-DB-A64P","Brain Lower Grade Glioma","IGC","oligodendroglioma",40,"Male",16.8,"0",NA
+"TCGA-FG-7634","Brain Lower Grade Glioma","IGC","oligodendroglioma",28,"Male",15.3,"0",NA
+"TCGA-06-0881","Glioblastoma multiforme","IGC","glioblastoma",50,"Male",5.8,"0",80
+"TCGA-DU-7007","Brain Lower Grade Glioma","IGC","astrocytoma",33,"Male",62.9,"1",NA
+"TCGA-06-0168","Glioblastoma multiforme","IGC","glioblastoma",59,"Female",19.6,"1",100
+"TCGA-41-4097","Glioblastoma multiforme","IGC","glioblastoma",63,"Female",0.2,"1",NA
+"TCGA-DU-7019","Brain Lower Grade Glioma","IGC","oligoastrocytoma",39,"Male",26.3,"0",100
+"TCGA-HT-A619","Brain Lower Grade Glioma","IGC","oligodendroglioma",51,"Female",14.3,"0",NA
+"TCGA-CS-6290","Brain Lower Grade Glioma","IGC","astrocytoma",31,"Male",17.9,"0",90
+"TCGA-E1-A7YE","Brain Lower Grade Glioma","IGC","",NA,"",NA,NA,NA
+"TCGA-14-0740","Glioblastoma multiforme","IGC","glioblastoma",70,"Male",12,"1",60
+"TCGA-19-5954","Glioblastoma multiforme","IGC","glioblastoma",72,"Female",8,"0",60
+"TCGA-26-5136","Glioblastoma multiforme","IGC","glioblastoma",78,"Female",1.2,"0",NA
+"TCGA-28-5215","Glioblastoma multiforme","IGC","glioblastoma",62,"Female",11,"1",90
+"TCGA-DB-A4XG","Brain Lower Grade Glioma","IGC","oligodendroglioma",34,"Male",72.9,"0",NA
+"TCGA-DU-A6S7","Brain Lower Grade Glioma","IGC","astrocytoma",27,"Female",7.2,"0",90
+"TCGA-19-5960","Glioblastoma multiforme","IGC","glioblastoma",56,"Male",5.4,"0",80
+"TCGA-28-6450","Glioblastoma multiforme","IGC","glioblastoma",60,"Male",5.4,"1",NA
+"TCGA-DU-5872","Brain Lower Grade Glioma","IGC","oligoastrocytoma",43,"Female",17.5,"0",NA
+"TCGA-26-5134","Glioblastoma multiforme","IGC","glioblastoma",74,"Male",5.5,"0",60
+"TCGA-DU-7006","Brain Lower Grade Glioma","IGC","astrocytoma",60,"Female",11.5,"1",NA
+"TCGA-TQ-A7RV","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-F6-A8O3","Brain Lower Grade Glioma","IGC","oligodendroglioma",34,"Male",0.2,"0",NA
+"TCGA-27-1833","Glioblastoma multiforme","IGC","glioblastoma",67,"Female",24.2,"1",80
+"TCGA-DU-8168","Brain Lower Grade Glioma","IGC","oligodendroglioma",55,"Female",14.2,"0",70
+"TCGA-VM-A8CH","Brain Lower Grade Glioma","NCH","astrocytoma",24,"Female",10.9,"0",90
+"TCGA-06-0219","Glioblastoma multiforme","IGC","glioblastoma",67,"Male",0.7,"1",NA
+"TCGA-WY-A85E","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-HW-A5KL","Brain Lower Grade Glioma","IGC","astrocytoma",42,"Female",20.8,"0",NA
+"TCGA-06-0171","Glioblastoma multiforme","IGC","glioblastoma",65,"Male",13.1,"1",100
+"TCGA-06-0184","Glioblastoma multiforme","IGC","glioblastoma",63,"Male",40.3,"0",80
+"TCGA-E1-A7Z6","Brain Lower Grade Glioma","IGC","astrocytoma",41,"Female",32.3,"1",90
+"TCGA-76-4935","Glioblastoma multiforme","IGC","glioblastoma",52,"Female",10.8,"0",80
+"TCGA-06-2562","Glioblastoma multiforme","IGC","glioblastoma",81,"Male",2.8,"0",80
+"TCGA-FG-8187","Brain Lower Grade Glioma","IGC","oligoastrocytoma",31,"Male",20.1,"0",90
+"TCGA-RY-A847","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-DH-A66F","Brain Lower Grade Glioma","IGC","oligodendroglioma",49,"Male",17.2,"0",90
+"TCGA-HT-7854","Brain Lower Grade Glioma","IGC","astrocytoma",62,"Male",39.5,"0",100
+"TCGA-QH-A6X4","Brain Lower Grade Glioma","NCH","oligoastrocytoma",47,"Male",6.3,"0",90
+"TCGA-DU-8165","Brain Lower Grade Glioma","IGC","oligodendroglioma",60,"Female",19.1,"0",90
+"TCGA-DH-A66G","Brain Lower Grade Glioma","IGC","oligodendroglioma",49,"Female",3.8,"0",80
+"TCGA-RR-A6KC","Glioblastoma multiforme","NCH","glioblastoma",55,"Male",20.5,"1",NA
+"TCGA-06-0875","Glioblastoma multiforme","IGC","glioblastoma",61,"Female",9.2,"0",80
+"TCGA-06-0173","Glioblastoma multiforme","IGC","glioblastoma",72,"Female",4.5,"1",NA
+"TCGA-CS-4941","Brain Lower Grade Glioma","IGC","astrocytoma",67,"Male",7.7,"1",90
+"TCGA-14-0790","Glioblastoma multiforme","IGC","glioblastoma",64,"Female",13.8,"1",60
+"TCGA-FG-A4MY","Brain Lower Grade Glioma","IGC","oligoastrocytoma",44,"Female",9.7,"0",NA
+"TCGA-12-0821","Glioblastoma multiforme","IGC","glioblastoma",62,"Male",10.6,"1",60
+"TCGA-CS-6186","Brain Lower Grade Glioma","IGC","oligoastrocytoma",58,"Male",17.7,"1",90
+"TCGA-06-0648","Glioblastoma multiforme","IGC","glioblastoma",77,"Male",9.8,"1",80
+"TCGA-S9-A7R3","Brain Lower Grade Glioma","NCH","astrocytoma",28,"Female",87,"0",100
+"TCGA-06-0241","Glioblastoma multiforme","IGC","glioblastoma",65,"Female",14.9,"0",100
+"TCGA-FG-8182","Brain Lower Grade Glioma","IGC","oligodendroglioma",35,"Male",13.7,"0",NA
+"TCGA-CS-5396","Brain Lower Grade Glioma","IGC","oligodendroglioma",53,"Female",10,"0",90
+"TCGA-HT-7677","Brain Lower Grade Glioma","IGC","oligodendroglioma",53,"Male",16.2,"0",NA
+"TCGA-12-3652","Glioblastoma multiforme","IGC","glioblastoma",60,"Male",34.9,"1",80
+"TCGA-06-0119","Glioblastoma multiforme","IGC","glioblastoma",81,"Female",2.7,"1",NA
+"TCGA-28-2501","Glioblastoma multiforme","IGC","",NA,"",NA,NA,NA
+"TCGA-HT-7902","Brain Lower Grade Glioma","IGC","oligoastrocytoma",30,"Female",31.4,"0",NA
+"TCGA-TM-A84M","Brain Lower Grade Glioma","NCH","oligodendroglioma",40,"Male",16.5,"0",100
+"TCGA-06-6388","Glioblastoma multiforme","IGC","glioblastoma",64,"Female",5.2,"1",80
+"TCGA-HT-A615","Brain Lower Grade Glioma","IGC","oligodendroglioma",38,"Female",13,"0",90
+"TCGA-DU-6397","Brain Lower Grade Glioma","IGC","oligodendroglioma",45,"Male",46,"1",NA
+"TCGA-TM-A84O","Brain Lower Grade Glioma","NCH","oligodendroglioma",61,"Female",29.9,"0",90
+"TCGA-HT-7469","Brain Lower Grade Glioma","IGC","oligodendroglioma",30,"Male",11.5,"1",NA
+"TCGA-26-5133","Glioblastoma multiforme","IGC","glioblastoma",59,"Male",14.9,"0",80
+"TCGA-DU-7011","Brain Lower Grade Glioma","IGC","oligoastrocytoma",25,"Male",105.1,"1",80
+"TCGA-E1-A7YQ","Brain Lower Grade Glioma","IGC","",NA,"",NA,NA,NA
+"TCGA-VM-A8CB","Brain Lower Grade Glioma","NCH","oligodendroglioma",33,"Male",0.1,"0",NA
+"TCGA-06-0743","Glioblastoma multiforme","IGC","glioblastoma",69,"Male",22.3,"0",100
+"TCGA-06-0686","Glioblastoma multiforme","IGC","glioblastoma",53,"Male",9.4,"0",NA
+"TCGA-S9-A6WH","Brain Lower Grade Glioma","NCH","oligoastrocytoma",73,"Female",22.9,"0",80
+"TCGA-14-0787","Glioblastoma multiforme","IGC","glioblastoma",69,"Male",2.2,"1",60
+"TCGA-FG-A4MX","Brain Lower Grade Glioma","IGC","astrocytoma",47,"Male",18.7,"0",100
+"TCGA-DU-6399","Brain Lower Grade Glioma","IGC","oligodendroglioma",54,"Male",65.7,"1",NA
+"TCGA-RR-A6KA","Glioblastoma multiforme","NCH","glioblastoma",72,"Female",6.3,"1",NA
+"TCGA-HT-7485","Brain Lower Grade Glioma","IGC","astrocytoma",42,"Male",4,"0",100
+"TCGA-76-6664","Glioblastoma multiforme","IGC","glioblastoma",49,"Female",7.8,"0",80
+"TCGA-DU-A6S8","Brain Lower Grade Glioma","IGC","oligodendroglioma",74,"Female",6,"0",90
+"TCGA-E1-5307","Brain Lower Grade Glioma","IGC","astrocytoma",62,"Female",57.9,"1",80
+"TCGA-HT-7860","Brain Lower Grade Glioma","IGC","astrocytoma",60,"Female",0.5,"0",NA
+"TCGA-06-5411","Glioblastoma multiforme","IGC","glioblastoma",51,"Male",8.3,"1",80
+"TCGA-41-3392","Glioblastoma multiforme","IGC","glioblastoma",88,"Male",1,"1",NA
+"TCGA-E1-A7YO","Brain Lower Grade Glioma","IGC","oligodendroglioma",45,"Male",75,"1",100
+"TCGA-74-6573","Glioblastoma multiforme","IGC","glioblastoma",67,"Male",3.4,"1",100
+"TCGA-DU-A7TC","Brain Lower Grade Glioma","IGC","astrocytoma",32,"Male",23.5,"0",90
+"TCGA-FG-6689","Brain Lower Grade Glioma","IGC","astrocytoma",30,"Male",14.9,"0",70
+"TCGA-DU-7300","Brain Lower Grade Glioma","IGC","oligodendroglioma",53,"Female",62,"1",90
+"TCGA-DB-5279","Brain Lower Grade Glioma","IGC","oligodendroglioma",59,"Male",44.5,"0",NA
+"TCGA-DU-6400","Brain Lower Grade Glioma","IGC","oligodendroglioma",66,"Female",1.2,"1",NA
+"TCGA-HT-7610","Brain Lower Grade Glioma","IGC","oligoastrocytoma",25,"Female",56.1,"0",NA
+"TCGA-E1-A7YN","Brain Lower Grade Glioma","IGC","",NA,"",NA,NA,NA
+"TCGA-06-0210","Glioblastoma multiforme","IGC","glioblastoma",72,"Female",7.4,"1",NA
+"TCGA-P5-A735","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-TM-A84F","Brain Lower Grade Glioma","NCH","astrocytoma",48,"Male",50.7,"0",100
+"TCGA-DU-7302","Brain Lower Grade Glioma","IGC","oligodendroglioma",48,"Female",60.3,"0",90
+"TCGA-FG-A6J1","Brain Lower Grade Glioma","IGC","oligodendroglioma",44,"Female",4.1,"0",70
+"TCGA-06-1804","Glioblastoma multiforme","IGC","glioblastoma",81,"Female",13.6,"1",NA
+"TCGA-19-5951","Glioblastoma multiforme","IGC","glioblastoma",76,"Female",8,"1",80
+"TCGA-19-5958","Glioblastoma multiforme","IGC","glioblastoma",56,"Male",5.4,"0",80
+"TCGA-S9-A7QW","Brain Lower Grade Glioma","NCH","astrocytoma",54,"Female",3.6,"0",100
+"TCGA-12-5301","Glioblastoma multiforme","IGC","glioblastoma",59,"Male",2,"1",80
+"TCGA-TQ-A7RF","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-06-6699","Glioblastoma multiforme","IGC","glioblastoma",58,"Female",1.5,"0",NA
+"TCGA-DU-7015","Brain Lower Grade Glioma","IGC","oligodendroglioma",41,"Female",90.7,"0",90
+"TCGA-FG-8188","Brain Lower Grade Glioma","IGC","oligoastrocytoma",41,"Male",14.9,"0",90
+"TCGA-DU-6402","Brain Lower Grade Glioma","IGC","astrocytoma",52,"Male",7,"1",NA
+"TCGA-QH-A65S","Brain Lower Grade Glioma","NCH","oligoastrocytoma",32,"Female",2.5,"0",90
+"TCGA-R8-A6ML","Brain Lower Grade Glioma","NCH","oligodendroglioma",52,"Male",94,"0",NA
+"TCGA-RY-A840","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-19-2629","Glioblastoma multiforme","IGC","glioblastoma",60,"Male",24.2,"1",NA
+"TCGA-06-0130","Glioblastoma multiforme","IGC","glioblastoma",54,"Male",12.9,"1",80
+"TCGA-DU-8162","Brain Lower Grade Glioma","IGC","oligoastrocytoma",61,"Female",14.6,"1",80
+"TCGA-14-1823","Glioblastoma multiforme","IGC","glioblastoma",58,"Female",17.8,"1",80
+"TCGA-E1-A7YH","Brain Lower Grade Glioma","IGC","",NA,"",NA,NA,NA
+"TCGA-S9-A6WD","Brain Lower Grade Glioma","NCH","oligodendroglioma",58,"Male",62.3,"0",100
+"TCGA-DB-A64V","Brain Lower Grade Glioma","IGC","oligodendroglioma",54,"Male",14.7,"0",90
+"TCGA-HT-8012","Brain Lower Grade Glioma","IGC","oligodendroglioma",30,"Female",9.4,"0",NA
+"TCGA-06-5856","Glioblastoma multiforme","IGC","glioblastoma",58,"Male",3.7,"1",NA
+"TCGA-QH-A6CV","Brain Lower Grade Glioma","NCH","oligoastrocytoma",51,"Male",3,"0",90
+"TCGA-HT-7880","Brain Lower Grade Glioma","IGC","oligoastrocytoma",30,"Male",5.3,"0",NA
+"TCGA-S9-A6TV","Brain Lower Grade Glioma","NCH","oligoastrocytoma",50,"Male",18.8,"0",90
+"TCGA-76-6280","Glioblastoma multiforme","IGC","glioblastoma",57,"Male",11.4,"1",80
+"TCGA-QH-A6CY","Brain Lower Grade Glioma","NCH","oligoastrocytoma",38,"Male",2.2,"0",90
+"TCGA-FG-A4MW","Brain Lower Grade Glioma","IGC","oligoastrocytoma",63,"Male",5.3,"0",80
+"TCGA-16-1045","Glioblastoma multiforme","IGC","glioblastoma",49,"Female",29,"1",NA
+"TCGA-HT-8114","Brain Lower Grade Glioma","IGC","oligoastrocytoma",36,"Male",3.9,"0",NA
+"TCGA-P5-A72Z","Brain Lower Grade Glioma","NCH","oligodendroglioma",64,"Female",0.3,"0",NA
+"TCGA-E1-5319","Brain Lower Grade Glioma","IGC","oligodendroglioma",48,"Female",95.5,"1",100
+"TCGA-QH-A6CX","Brain Lower Grade Glioma","NCH","astrocytoma",66,"Male",0,"0",90
+"TCGA-28-1753","Glioblastoma multiforme","IGC","glioblastoma",53,"Male",1.2,"0",NA
+"TCGA-02-2486","Glioblastoma multiforme","IGC","glioblastoma",64,"Male",16.2,"0",80
+"TCGA-QH-A6XC","Brain Lower Grade Glioma","NCH","astrocytoma",48,"Male",5,"0",70
+"TCGA-12-5295","Glioblastoma multiforme","IGC","glioblastoma",60,"Female",14.9,"1",NA
+"TCGA-HT-7692","Brain Lower Grade Glioma","IGC","oligoastrocytoma",43,"Male",3,"0",100
+"TCGA-32-2615","Glioblastoma multiforme","IGC","glioblastoma",62,"Male",15.9,"1",80
+"TCGA-S9-A6U0","Brain Lower Grade Glioma","NCH","astrocytoma",46,"Male",16.4,"0",100
+"TCGA-06-0644","Glioblastoma multiforme","IGC","glioblastoma",71,"Male",12.3,"0",80
+"TCGA-DU-5853","Brain Lower Grade Glioma","IGC","oligoastrocytoma",29,"Male",13.4,"0",100
+"TCGA-HW-A5KJ","Brain Lower Grade Glioma","IGC","oligodendroglioma",68,"Male",10.5,"0",NA
+"TCGA-06-0209","Glioblastoma multiforme","IGC","glioblastoma",76,"Male",7.6,"1",NA
+"TCGA-HT-7607","Brain Lower Grade Glioma","IGC","astrocytoma",61,"Female",3.2,"1",70
+"TCGA-DU-A5TT","Brain Lower Grade Glioma","IGC","oligodendroglioma",70,"Male",5,"0",NA
+"TCGA-DU-A7TG","Brain Lower Grade Glioma","IGC","oligodendroglioma",40,"Male",44.4,"1",70
+"TCGA-DH-A66D","Brain Lower Grade Glioma","IGC","astrocytoma",43,"Female",15.7,"0",80
+"TCGA-DB-5270","Brain Lower Grade Glioma","IGC","oligoastrocytoma",38,"Female",97.8,"0",NA
+"TCGA-P5-A5F6","Brain Lower Grade Glioma","NCH","oligodendroglioma",26,"Male",1.3,"0",70
+"TCGA-28-5213","Glioblastoma multiforme","IGC","glioblastoma",72,"Male",9.8,"0",80
+"TCGA-FG-A60L","Brain Lower Grade Glioma","IGC","astrocytoma",34,"Female",7,"0",100
+"TCGA-E1-A7YV","Brain Lower Grade Glioma","IGC","oligoastrocytoma",26,"Female",32.4,"1",90
+"TCGA-HT-7858","Brain Lower Grade Glioma","IGC","astrocytoma",28,"Male",50.6,"0",NA
+"TCGA-DU-6408","Brain Lower Grade Glioma","IGC","oligodendroglioma",23,"Female",114,"1",90
+"TCGA-HW-7495","Brain Lower Grade Glioma","IGC","oligodendroglioma",45,"Female",4.3,"0",NA
+"TCGA-06-5408","Glioblastoma multiforme","IGC","glioblastoma",54,"Female",11.7,"1",80
+"TCGA-S9-A7IQ","Brain Lower Grade Glioma","NCH","oligoastrocytoma",45,"Female",14.3,"0",100
+"TCGA-E1-A7Z3","Brain Lower Grade Glioma","IGC","",NA,"",NA,NA,NA
+"TCGA-E1-A7Z4","Brain Lower Grade Glioma","IGC","",NA,"",NA,NA,NA
+"TCGA-WH-A86K","Brain Lower Grade Glioma","NCH","astrocytoma",65,"Male",5.3,"0",NA
+"TCGA-OX-A56R","Glioblastoma multiforme","NCH","glioblastoma",68,"Male",5.9,"1",NA
+"TCGA-HT-A4DS","Brain Lower Grade Glioma","IGC","astrocytoma",55,"Female",0.2,"0",NA
+"TCGA-06-5415","Glioblastoma multiforme","IGC","glioblastoma",60,"Male",8.5,"0",100
+"TCGA-27-2519","Glioblastoma multiforme","IGC","glioblastoma",48,"Male",10.4,"0",80
+"TCGA-HT-A74O","Brain Lower Grade Glioma","IGC","astrocytoma",34,"Male",0.1,"0",NA
+"TCGA-TQ-A7RJ","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-P5-A5EW","Brain Lower Grade Glioma","NCH","astrocytoma",20,"Female",6.7,"0",80
+"TCGA-16-0846","Glioblastoma multiforme","IGC","glioblastoma",85,"Male",3.9,"1",NA
+"TCGA-HT-7475","Brain Lower Grade Glioma","IGC","oligoastrocytoma",67,"Male",17.4,"0",70
+"TCGA-S9-A6UB","Brain Lower Grade Glioma","NCH","oligodendroglioma",52,"Male",103.7,"0",100
+"TCGA-P5-A77X","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-DU-7304","Brain Lower Grade Glioma","IGC","oligoastrocytoma",43,"Male",23.3,"1",80
+"TCGA-06-5410","Glioblastoma multiforme","IGC","glioblastoma",72,"Female",3.5,"1",60
+"TCGA-DU-7290","Brain Lower Grade Glioma","IGC","astrocytoma",45,"Female",10.3,"1",NA
+"TCGA-DU-A7TB","Brain Lower Grade Glioma","IGC","oligodendroglioma",56,"Male",42.3,"0",100
+"TCGA-HW-7487","Brain Lower Grade Glioma","IGC","oligodendroglioma",39,"Male",13.4,"0",NA
+"TCGA-HT-7480","Brain Lower Grade Glioma","IGC","oligodendroglioma",33,"Male",75.1,"0",NA
+"TCGA-DU-6403","Brain Lower Grade Glioma","IGC","oligoastrocytoma",60,"Female",11.6,"1",90
+"TCGA-DB-A4X9","Brain Lower Grade Glioma","IGC","oligoastrocytoma",33,"Female",30.1,"0",NA
+"TCGA-DU-7018","Brain Lower Grade Glioma","IGC","oligodendroglioma",57,"Female",30.7,"1",90
+"TCGA-32-1991","Glioblastoma multiforme","IGC","glioblastoma",60,"Male",16.9,"1",NA
+"TCGA-HT-7603","Brain Lower Grade Glioma","IGC","oligodendroglioma",29,"Male",23.2,"0",NA
+"TCGA-P5-A5EV","Brain Lower Grade Glioma","NCH","astrocytoma",39,"Male",0.2,"0",60
+"TCGA-HT-7684","Brain Lower Grade Glioma","IGC","oligoastrocytoma",58,"Male",6,"0",NA
+"TCGA-S9-A6WI","Brain Lower Grade Glioma","NCH","oligoastrocytoma",56,"Female",70.6,"0",100
+"TCGA-R8-A6YH","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-FG-5962","Brain Lower Grade Glioma","IGC","oligodendroglioma",54,"Male",47.7,"0",NA
+"TCGA-HW-8319","Brain Lower Grade Glioma","IGC","astrocytoma",34,"Female",21.7,"0",NA
+"TCGA-32-4213","Glioblastoma multiforme","IGC","glioblastoma",47,"Female",11.7,"0",NA
+"TCGA-06-0195","Glioblastoma multiforme","IGC","glioblastoma",63,"Male",7.4,"1",100
+"TCGA-41-3915","Glioblastoma multiforme","IGC","glioblastoma",48,"Male",6,"0",NA
+"TCGA-DU-A76O","Brain Lower Grade Glioma","IGC","astrocytoma",30,"Male",7.1,"0",NA
+"TCGA-FG-6692","Brain Lower Grade Glioma","IGC","oligodendroglioma",63,"Male",18.4,"1",NA
+"TCGA-HT-7478","Brain Lower Grade Glioma","IGC","astrocytoma",36,"Male",6.4,"0",NA
+"TCGA-DB-A64W","Brain Lower Grade Glioma","IGC","oligoastrocytoma",65,"Female",13.6,"0",90
+"TCGA-19-2620","Glioblastoma multiforme","IGC","glioblastoma",70,"Male",4.9,"1",40
+"TCGA-S9-A6WN","Brain Lower Grade Glioma","NCH","astrocytoma",38,"Female",9,"0",90
+"TCGA-R8-A73M","Brain Lower Grade Glioma","NCH","oligodendroglioma",48,"Female",59.3,"0",NA
+"TCGA-06-2563","Glioblastoma multiforme","IGC","glioblastoma",72,"Female",8.5,"0",80
+"TCGA-TM-A84I","Brain Lower Grade Glioma","NCH","astrocytoma",30,"Male",19.4,"0",90
+"TCGA-DB-5274","Brain Lower Grade Glioma","IGC","oligoastrocytoma",37,"Female",75.2,"0",80
+"TCGA-HT-7681","Brain Lower Grade Glioma","IGC","oligoastrocytoma",29,"Female",44.6,"0",NA
+"TCGA-HT-7479","Brain Lower Grade Glioma","IGC","astrocytoma",44,"Male",7.1,"0",NA
+"TCGA-27-2524","Glioblastoma multiforme","IGC","glioblastoma",56,"Male",7.6,"1",80
+"TCGA-DU-A5TU","Brain Lower Grade Glioma","IGC","astrocytoma",62,"Female",3.6,"0",50
+"TCGA-DH-A7UU","Brain Lower Grade Glioma","IGC","astrocytoma",43,"Male",3.4,"0",90
+"TCGA-FG-5965","Brain Lower Grade Glioma","IGC","oligoastrocytoma",39,"Female",36.8,"1",90
+"TCGA-DB-A75P","Brain Lower Grade Glioma","IGC","astrocytoma",25,"Female",3.8,"0",NA
+"TCGA-14-0862","Glioblastoma multiforme","IGC","glioblastoma",60,"Male",2.9,"1",40
+"TCGA-DU-8166","Brain Lower Grade Glioma","IGC","oligoastrocytoma",29,"Female",17,"0",NA
+"TCGA-DH-A669","Brain Lower Grade Glioma","IGC","oligodendroglioma",70,"Male",30.2,"1",NA
+"TCGA-28-5211","Glioblastoma multiforme","IGC","glioblastoma",42,"Male",11.8,"0",100
+"TCGA-06-1806","Glioblastoma multiforme","IGC","glioblastoma",47,"Male",15.3,"1",90
+"TCGA-FG-6690","Brain Lower Grade Glioma","IGC","oligodendroglioma",70,"Male",25,"0",90
+"TCGA-14-1829","Glioblastoma multiforme","IGC","glioblastoma",57,"Male",7.2,"0",60
+"TCGA-15-0742","Glioblastoma multiforme","IGC","glioblastoma",65,"Male",13.8,"1",80
+"TCGA-DU-6401","Brain Lower Grade Glioma","IGC","oligodendroglioma",31,"Female",87.4,"1",NA
+"TCGA-32-1986","Glioblastoma multiforme","IGC","glioblastoma",68,"Male",12.7,"1",20
+"TCGA-DH-5143","Brain Lower Grade Glioma","IGC","oligoastrocytoma",30,"Male",14.4,"0",80
+"TCGA-06-0939","Glioblastoma multiforme","IGC","glioblastoma",79,"Female",20.9,"0",80
+"TCGA-TQ-A7RU","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-06-0879","Glioblastoma multiforme","IGC","glioblastoma",52,"Male",23,"0",80
+"TCGA-41-3393","Glioblastoma multiforme","IGC","glioblastoma",81,"Female",4.4,"1",NA
+"TCGA-S9-A7R4","Brain Lower Grade Glioma","NCH","astrocytoma",46,"Male",17.4,"0",90
+"TCGA-32-4208","Glioblastoma multiforme","IGC","glioblastoma",25,"Male",13.1,"0",NA
+"TCGA-DU-6410","Brain Lower Grade Glioma","IGC","oligodendroglioma",56,"Male",8,"0",50
+"TCGA-FG-6691","Brain Lower Grade Glioma","IGC","astrocytoma",23,"Female",24,"0",100
+"TCGA-28-2509","Glioblastoma multiforme","IGC","glioblastoma",77,"Female",4.8,"0",80
+"TCGA-06-0151","Glioblastoma multiforme","IGC","glioblastoma",32,"Female",46.6,"1",70
+"TCGA-S9-A6WM","Brain Lower Grade Glioma","NCH","astrocytoma",59,"Female",9.3,"0",90
+"TCGA-06-6695","Glioblastoma multiforme","IGC","glioblastoma",64,"Male",8.3,"0",40
+"TCGA-06-5858","Glioblastoma multiforme","IGC","glioblastoma",45,"Female",6.1,"0",100
+"TCGA-HT-A5RA","Brain Lower Grade Glioma","IGC","astrocytoma",65,"Female",14.7,"0",70
+"TCGA-28-5219","Glioblastoma multiforme","IGC","glioblastoma",47,"Female",8.5,"0",70
+"TCGA-E1-5311","Brain Lower Grade Glioma","IGC","oligodendroglioma",31,"Male",134.2,"1",100
+"TCGA-26-5135","Glioblastoma multiforme","IGC","glioblastoma",72,"Female",8.9,"1",NA
+"TCGA-FG-7641","Brain Lower Grade Glioma","IGC","oligodendroglioma",31,"Male",20.6,"0",NA
+"TCGA-S9-A7R8","Brain Lower Grade Glioma","NCH","astrocytoma",44,"Female",31.6,"1",90
+"TCGA-E1-A7YM","Brain Lower Grade Glioma","IGC","",NA,"",NA,NA,NA
+"TCGA-TM-A7C4","Brain Lower Grade Glioma","NCH","astrocytoma",39,"Female",35.9,"0",90
+"TCGA-FG-A711","Brain Lower Grade Glioma","IGC","oligodendroglioma",33,"Female",43.7,"0",90
+"TCGA-HW-8320","Brain Lower Grade Glioma","IGC","astrocytoma",36,"Male",21.6,"0",NA
+"TCGA-06-0142","Glioblastoma multiforme","IGC","glioblastoma",81,"Male",2.2,"1",NA
+"TCGA-DU-7294","Brain Lower Grade Glioma","IGC","oligodendroglioma",53,"Female",94.3,"0",100
+"TCGA-DU-8158","Brain Lower Grade Glioma","IGC","astrocytoma",57,"Female",5.1,"1",80
+"TCGA-16-0861","Glioblastoma multiforme","IGC","glioblastoma",65,"Male",4.3,NA,NA
+"TCGA-FG-A70Y","Brain Lower Grade Glioma","IGC","oligodendroglioma",20,"Female",28.5,"0",NA
+"TCGA-06-0158","Glioblastoma multiforme","IGC","glioblastoma",73,"Male",10.8,"1",80
+"TCGA-S9-A89Z","Brain Lower Grade Glioma","NCH","astrocytoma",40,"Male",5,"0",70
+"TCGA-19-A6J5","Glioblastoma multiforme","IGC","glioblastoma",40,"Male",16.6,"0",100
+"TCGA-06-2557","Glioblastoma multiforme","IGC","glioblastoma",76,"Male",1.1,"1",40
+"TCGA-DU-6393","Brain Lower Grade Glioma","IGC","oligodendroglioma",66,"Male",52.1,"1",NA
+"TCGA-06-0650","Glioblastoma multiforme","IGC","glioblastoma",39,"Female",23.6,"1",NA
+"TCGA-FG-A710","Brain Lower Grade Glioma","IGC","oligodendroglioma",50,"Female",22.9,"0",NA
+"TCGA-S9-A6U5","Brain Lower Grade Glioma","NCH","astrocytoma",33,"Male",20,"0",100
+"TCGA-CS-6665","Brain Lower Grade Glioma","IGC","astrocytoma",51,"Female",12.4,"0",90
+"TCGA-HT-7601","Brain Lower Grade Glioma","IGC","astrocytoma",30,"Female",5,"0",NA
+"TCGA-06-0169","Glioblastoma multiforme","IGC","glioblastoma",68,"Male",3.3,"1",80
+"TCGA-DB-5275","Brain Lower Grade Glioma","IGC","oligoastrocytoma",36,"Male",47.9,"0",NA
+"TCGA-WY-A858","Brain Lower Grade Glioma","NCH","astrocytoma",32,"Female",43.9,"0",100
+"TCGA-IK-7675","Brain Lower Grade Glioma","IGC","oligodendroglioma",43,"Male",19,"1",90
+"TCGA-HT-7693","Brain Lower Grade Glioma","IGC","oligodendroglioma",51,"Female",17.5,"0",90
+"TCGA-32-2632","Glioblastoma multiforme","IGC","glioblastoma",80,"Male",8.8,"1",NA
+"TCGA-12-3649","Glioblastoma multiforme","IGC","glioblastoma",76,"Male",15.2,"1",80
+"TCGA-19-2624","Glioblastoma multiforme","IGC","glioblastoma",51,"Male",0.2,"1",NA
+"TCGA-TM-A84R","Brain Lower Grade Glioma","NCH","oligodendroglioma",46,"Male",9.4,"0",80
+"TCGA-HT-7694","Brain Lower Grade Glioma","IGC","oligodendroglioma",60,"Male",6.9,"0",90
+"TCGA-P5-A77W","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-HT-7882","Brain Lower Grade Glioma","IGC","oligodendroglioma",66,"Male",3.7,"1",NA
+"TCGA-06-0877","Glioblastoma multiforme","IGC","glioblastoma",78,"Male",6.7,"0",NA
+"TCGA-02-0003","Glioblastoma multiforme","IGC","glioblastoma",50,"Male",4.7,"1",100
+"TCGA-DU-8164","Brain Lower Grade Glioma","IGC","oligodendroglioma",51,"Male",21.4,"0",NA
+"TCGA-14-1034","Glioblastoma multiforme","IGC","glioblastoma",60,"Female",15.9,"1",60
+"TCGA-14-0781","Glioblastoma multiforme","IGC","glioblastoma",49,"Male",1,"1",NA
+"TCGA-P5-A780","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-R8-A6MO","Brain Lower Grade Glioma","NCH","oligodendroglioma",53,"Female",32.6,"0",NA
+"TCGA-28-2513","Glioblastoma multiforme","IGC","glioblastoma",69,"Female",7.3,"0",80
+"TCGA-06-6698","Glioblastoma multiforme","IGC","glioblastoma",53,"Female",4.8,"0",NA
+"TCGA-28-2502","Glioblastoma multiforme","IGC","glioblastoma",65,"Male",0.7,"0",20
+"TCGA-76-6285","Glioblastoma multiforme","IGC","glioblastoma",64,"Female",8.3,"1",80
+"TCGA-HT-7881","Brain Lower Grade Glioma","IGC","oligodendroglioma",38,"Male",2.9,"0",NA
+"TCGA-76-4926","Glioblastoma multiforme","IGC","glioblastoma",68,"Male",4.5,"1",80
+"TCGA-S9-A6UA","Brain Lower Grade Glioma","NCH","astrocytoma",66,"Male",5.8,"1",60
+"TCGA-P5-A737","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-28-5220","Glioblastoma multiforme","IGC","glioblastoma",67,"Male",10.5,"0",90
+"TCGA-VM-A8C8","Brain Lower Grade Glioma","NCH","oligodendroglioma",50,"Female",33.1,"0",90
+"TCGA-S9-A7R2","Brain Lower Grade Glioma","NCH","astrocytoma",69,"Male",10.4,"1",90
+"TCGA-HT-A614","Brain Lower Grade Glioma","IGC","oligoastrocytoma",47,"Male",2.7,"0",NA
+"TCGA-19-5959","Glioblastoma multiforme","IGC","glioblastoma",77,"Female",5.3,"0",80
+"TCGA-28-5204","Glioblastoma multiforme","IGC","glioblastoma",72,"Male",14.9,"1",80
+"TCGA-02-0033","Glioblastoma multiforme","IGC","glioblastoma",54,"Male",2.8,"1",100
+"TCGA-FG-7638","Brain Lower Grade Glioma","IGC","oligodendroglioma",31,"Female",22.5,"0",100
+"TCGA-06-6697","Glioblastoma multiforme","IGC","glioblastoma",65,"Male",12.8,"0",80
+"TCGA-KT-A74X","Brain Lower Grade Glioma","IGC","oligoastrocytoma",26,"Male",5.2,"0",90
+"TCGA-DU-A6S2","Brain Lower Grade Glioma","IGC","oligodendroglioma",37,"Female",8.6,"0",70
+"TCGA-19-2625","Glioblastoma multiforme","IGC","glioblastoma",76,"Female",4.1,"1",NA
+"TCGA-14-4157","Glioblastoma multiforme","IGC","glioblastoma",40,"Male",3.4,"0",60
+"TCGA-TM-A84B","Brain Lower Grade Glioma","NCH","astrocytoma",40,"Male",12,"0",90
+"TCGA-06-6700","Glioblastoma multiforme","IGC","glioblastoma",76,"Male",4.8,"0",100
+"TCGA-P5-A5EZ","Brain Lower Grade Glioma","NCH","astrocytoma",39,"Male",2.3,"0",NA
+"TCGA-76-4925","Glioblastoma multiforme","IGC","glioblastoma",76,"Male",4.8,"1",100
+"TCGA-TM-A84H","Brain Lower Grade Glioma","NCH","oligoastrocytoma",44,"Female",24.2,"0",90
+"TCGA-HT-7471","Brain Lower Grade Glioma","IGC","oligodendroglioma",37,"Female",0.1,"0",NA
+"TCGA-27-1831","Glioblastoma multiforme","IGC","glioblastoma",66,"Male",16.6,"1",80
+"TCGA-12-0692","Glioblastoma multiforme","IGC","glioblastoma",75,"Female",3.6,"1",60
+"TCGA-19-1390","Glioblastoma multiforme","IGC","glioblastoma",63,"Female",25.4,"1",60
+"TCGA-HT-A5R9","Brain Lower Grade Glioma","IGC","oligodendroglioma",48,"Female",0.1,"0",NA
+"TCGA-28-2514","Glioblastoma multiforme","IGC","glioblastoma",45,"Male",5.3,"0",60
+"TCGA-S9-A7J1","Brain Lower Grade Glioma","NCH","oligodendroglioma",43,"Male",8.2,"0",60
+"TCGA-06-5413","Glioblastoma multiforme","IGC","glioblastoma",67,"Male",8.8,"0",60
+"TCGA-26-6173","Glioblastoma multiforme","IGC","glioblastoma",57,"Male",7.9,"0",80
+"TCGA-DB-5278","Brain Lower Grade Glioma","IGC","oligodendroglioma",17,"Male",50.1,"0",NA
+"TCGA-14-0871","Glioblastoma multiforme","IGC","glioblastoma",74,"Female",28.9,"1",60
+"TCGA-DU-7306","Brain Lower Grade Glioma","IGC","oligoastrocytoma",67,"Male",42,"0",100
+"TCGA-DU-A5TY","Brain Lower Grade Glioma","IGC","astrocytoma",46,"Female",12.2,"0",NA
+"TCGA-74-6577","Glioblastoma multiforme","IGC","glioblastoma",51,"Male",4.3,"0",90
+"TCGA-HT-7879","Brain Lower Grade Glioma","IGC","oligoastrocytoma",31,"Male",3.7,"0",NA
+"TCGA-HT-7616","Brain Lower Grade Glioma","IGC","oligodendroglioma",75,"Male",0.2,"1",NA
+"TCGA-E1-A7YU","Brain Lower Grade Glioma","IGC","",NA,"",NA,NA,NA
+"TCGA-HT-7483","Brain Lower Grade Glioma","IGC","oligoastrocytoma",14,"Male",154.1,"0",NA
+"TCGA-06-2567","Glioblastoma multiforme","IGC","glioblastoma",65,"Male",4.4,"1",80
+"TCGA-32-2491","Glioblastoma multiforme","IGC","glioblastoma",63,"Male",12.2,"1",NA
+"TCGA-DU-7013","Brain Lower Grade Glioma","IGC","astrocytoma",59,"Male",8.8,"1",80
+"TCGA-P5-A781","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-32-4211","Glioblastoma multiforme","IGC","glioblastoma",56,"Male",12.6,"1",NA
+"TCGA-QH-A65V","Brain Lower Grade Glioma","NCH","oligodendroglioma",43,"Female",4.8,"0",90
+"TCGA-HT-7680","Brain Lower Grade Glioma","IGC","astrocytoma",32,"Female",0.8,"0",NA
+"TCGA-DU-8167","Brain Lower Grade Glioma","IGC","oligoastrocytoma",69,"Female",15.5,"0",100
+"TCGA-DB-A4XE","Brain Lower Grade Glioma","IGC","oligoastrocytoma",27,"Female",18.8,"0",90
+"TCGA-06-2561","Glioblastoma multiforme","IGC","glioblastoma",53,"Female",9.3,"0",80
+"TCGA-DB-A64U","Brain Lower Grade Glioma","IGC","oligoastrocytoma",38,"Female",27.8,"0",90
+"TCGA-DU-A7T6","Brain Lower Grade Glioma","IGC","oligodendroglioma",73,"Female",18,"1",60
+"TCGA-HT-7481","Brain Lower Grade Glioma","IGC","oligodendroglioma",39,"Male",59.1,"0",NA
+"TCGA-DU-A6S3","Brain Lower Grade Glioma","IGC","oligodendroglioma",60,"Male",2.7,"0",NA
+"TCGA-HT-7609","Brain Lower Grade Glioma","IGC","oligoastrocytoma",34,"Male",46,"0",90
+"TCGA-HT-7620","Brain Lower Grade Glioma","IGC","oligodendroglioma",40,"Male",14.3,"0",NA
+"TCGA-06-5414","Glioblastoma multiforme","IGC","glioblastoma",61,"Male",9,"0",80
+"TCGA-TQ-A7RR","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-26-1442","Glioblastoma multiforme","IGC","glioblastoma",43,"Male",31.3,"0",80
+"TCGA-32-2638","Glioblastoma multiforme","IGC","glioblastoma",67,"Male",7.4,"0",NA
+"TCGA-HT-7477","Brain Lower Grade Glioma","IGC","astrocytoma",62,"Male",24.2,"0",80
+"TCGA-QH-A6CU","Brain Lower Grade Glioma","NCH","oligodendroglioma",52,"Female",0,"0",90
+"TCGA-19-5947","Glioblastoma multiforme","IGC","glioblastoma",47,"Female",6.6,"1",40
+"TCGA-E1-A7YD","Brain Lower Grade Glioma","IGC","",NA,"",NA,NA,NA
+"TCGA-VV-A86M","Brain Lower Grade Glioma","NCH","astrocytoma",36,"Female",7,"0",NA
+"TCGA-HT-7856","Brain Lower Grade Glioma","IGC","oligodendroglioma",35,"Male",39.1,"0",NA
+"TCGA-DH-A7UV","Brain Lower Grade Glioma","IGC","astrocytoma",49,"Male",6.2,"0",90
+"TCGA-HT-A618","Brain Lower Grade Glioma","IGC","astrocytoma",37,"Female",5.3,"0",80
+"TCGA-VM-A8C9","Brain Lower Grade Glioma","NCH","astrocytoma",37,"Female",30.1,"0",NA
+"TCGA-S9-A7QX","Brain Lower Grade Glioma","NCH","astrocytoma",36,"Female",4,"0",100
+"TCGA-FG-8186","Brain Lower Grade Glioma","IGC","oligoastrocytoma",42,"Female",16,"0",70
+"TCGA-HT-7467","Brain Lower Grade Glioma","IGC","oligodendroglioma",54,"Male",0.1,"0",NA
+"TCGA-P5-A5EU","Brain Lower Grade Glioma","NCH","astrocytoma",35,"Male",0,"0",60
+"TCGA-S9-A7J2","Brain Lower Grade Glioma","NCH","oligodendroglioma",25,"Male",2,"0",80
+"TCGA-F6-A8O4","Brain Lower Grade Glioma","IGC","astrocytoma",44,"Male",0.2,"0",NA
+"TCGA-DU-8161","Brain Lower Grade Glioma","IGC","oligoastrocytoma",63,"Female",23.7,"1",70
+"TCGA-E1-A7YY","Brain Lower Grade Glioma","IGC","",NA,"",NA,NA,NA
+"TCGA-CS-5394","Brain Lower Grade Glioma","IGC","astrocytoma",40,"Male",0.1,"0",NA
+"TCGA-12-0618","Glioblastoma multiforme","IGC","glioblastoma",49,"Male",13,"1",60
+"TCGA-27-1834","Glioblastoma multiforme","IGC","glioblastoma",56,"Male",40.5,"1",80
+"TCGA-DU-5855","Brain Lower Grade Glioma","IGC","oligoastrocytoma",49,"Female",6.8,"0",100
+"TCGA-32-2634","Glioblastoma multiforme","IGC","glioblastoma",82,"Male",8.9,"0",NA
+"TCGA-HT-A61C","Brain Lower Grade Glioma","IGC","oligodendroglioma",66,"Male",3.4,"0",100
+"TCGA-CS-6668","Brain Lower Grade Glioma","IGC","oligodendroglioma",57,"Female",8,"0",90
+"TCGA-DU-A5TW","Brain Lower Grade Glioma","IGC","astrocytoma",33,"Female",5.7,"0",100
+"TCGA-DB-A4XA","Brain Lower Grade Glioma","IGC","oligoastrocytoma",30,"Male",10.3,"0",NA
+"TCGA-06-0128","Glioblastoma multiforme","IGC","glioblastoma",66,"Male",22.7,"1",80
+"TCGA-FG-A60K","Brain Lower Grade Glioma","IGC","oligoastrocytoma",34,"Female",6.6,"0",NA
+"TCGA-HT-A4DV","Brain Lower Grade Glioma","IGC","oligodendroglioma",51,"Female",10.5,"0",90
+"TCGA-S9-A6U2","Brain Lower Grade Glioma","NCH","oligodendroglioma",48,"Female",15.6,"0",100
+"TCGA-19-5952","Glioblastoma multiforme","IGC","glioblastoma",62,"Male",18.9,"1",60
+"TCGA-06-2564","Glioblastoma multiforme","IGC","glioblastoma",50,"Male",5.9,"0",100
+"TCGA-HT-7691","Brain Lower Grade Glioma","IGC","astrocytoma",31,"Female",0.1,"0",NA
+"TCGA-HT-7873","Brain Lower Grade Glioma","IGC","oligoastrocytoma",29,"Male",23.6,"0",NA
+"TCGA-DU-7301","Brain Lower Grade Glioma","IGC","oligodendroglioma",53,"Male",25.9,"1",100
+"TCGA-74-6578","Glioblastoma multiforme","IGC","glioblastoma",58,"Male",14.3,"0",100
+"TCGA-06-2569","Glioblastoma multiforme","IGC","glioblastoma",24,"Female",0.4,"0",80
+"TCGA-06-2570","Glioblastoma multiforme","IGC","glioblastoma",21,"Female",9.4,"0",100
+"TCGA-06-0211","Glioblastoma multiforme","IGC","glioblastoma",47,"Male",11.8,"1",100
+"TCGA-81-5910","Glioblastoma multiforme","IGC","glioblastoma",64,"Male",1.6,"1",40
+"TCGA-27-2518","Glioblastoma multiforme","IGC","glioblastoma",52,"Male",24.7,"1",80
+"TCGA-DB-A4XB","Brain Lower Grade Glioma","IGC","astrocytoma",38,"Male",12.7,"0",NA
+"TCGA-06-0882","Glioblastoma multiforme","IGC","glioblastoma",30,"Male",5.4,"0",60
+"TCGA-S9-A6WG","Brain Lower Grade Glioma","NCH","astrocytoma",31,"Male",70.5,"0",100
+"TCGA-DU-A5TR","Brain Lower Grade Glioma","IGC","oligoastrocytoma",51,"Male",12.6,"0",90
+"TCGA-CS-5393","Brain Lower Grade Glioma","IGC","astrocytoma",39,"Male",40.1,"0",100
+"TCGA-FG-8191","Brain Lower Grade Glioma","IGC","oligodendroglioma",30,"Male",15.5,"0",NA
+"TCGA-CS-5397","Brain Lower Grade Glioma","IGC","astrocytoma",54,"Female",6.4,"1",80
+"TCGA-DU-5871","Brain Lower Grade Glioma","IGC","oligoastrocytoma",37,"Female",18.9,"0",100
+"TCGA-DU-7010","Brain Lower Grade Glioma","IGC","astrocytoma",58,"Female",15,"1",NA
+"TCGA-W9-A837","Brain Lower Grade Glioma","NCH","oligodendroglioma",47,"Male",45,"0",NA
+"TCGA-DU-A76R","Brain Lower Grade Glioma","IGC","oligodendroglioma",51,"Male",21.3,"1",50
+"TCGA-06-0213","Glioblastoma multiforme","IGC","glioblastoma",55,"Female",0.5,"1",NA
+"TCGA-HW-7490","Brain Lower Grade Glioma","IGC","astrocytoma",41,"Male",19.2,"0",NA
+"TCGA-E1-A7Z2","Brain Lower Grade Glioma","IGC","",NA,"",NA,NA,NA
+"TCGA-HT-8113","Brain Lower Grade Glioma","IGC","oligodendroglioma",49,"Female",29.6,"0",NA
+"TCGA-DU-7309","Brain Lower Grade Glioma","IGC","oligodendroglioma",41,"Female",2.8,"0",90
+"TCGA-DB-A64L","Brain Lower Grade Glioma","IGC","oligodendroglioma",67,"Female",11,"0",70
+"TCGA-FG-A4MT","Brain Lower Grade Glioma","IGC","oligodendroglioma",27,"Female",38.2,"0",100
+"TCGA-FN-7833","Brain Lower Grade Glioma","IGC","oligoastrocytoma",25,"Male",0.1,"0",NA
+"TCGA-HT-8015","Brain Lower Grade Glioma","IGC","astrocytoma",21,"Male",0.1,"0",NA
+"TCGA-S9-A89V","Brain Lower Grade Glioma","NCH","astrocytoma",70,"Male",18.7,"0",80
+"TCGA-HT-A5RB","Brain Lower Grade Glioma","IGC","astrocytoma",24,"Male",0.1,"0",NA
+"TCGA-HW-A5KM","Brain Lower Grade Glioma","IGC","astrocytoma",35,"Male",20.7,"0",NA
+"TCGA-41-2573","Glioblastoma multiforme","IGC","glioblastoma",59,"Male",8.9,"0",60
+"TCGA-76-4929","Glioblastoma multiforme","IGC","glioblastoma",76,"Female",3.6,"1",80
+"TCGA-06-0139","Glioblastoma multiforme","IGC","glioblastoma",40,"Male",11.9,"1",60
+"TCGA-41-2572","Glioblastoma multiforme","IGC","glioblastoma",67,"Male",13.3,"1",NA
+"TCGA-26-5132","Glioblastoma multiforme","IGC","glioblastoma",74,"Male",9.4,"0",60
+"TCGA-06-0750","Glioblastoma multiforme","IGC","glioblastoma",43,"Male",0.9,"1",80
+"TCGA-DU-5847","Brain Lower Grade Glioma","IGC","astrocytoma",34,"Female",18,"0",NA
+"TCGA-06-0238","Glioblastoma multiforme","IGC","glioblastoma",46,"Male",13.3,"1",80
+"TCGA-06-A5U0","Glioblastoma multiforme","IGC","glioblastoma",21,"Female",4.7,"0",90
+"TCGA-QH-A6X3","Brain Lower Grade Glioma","NCH","oligoastrocytoma",27,"Male",0.6,"0",90
+"TCGA-DU-8163","Brain Lower Grade Glioma","IGC","oligoastrocytoma",29,"Male",20.7,"0",90
+"TCGA-27-2523","Glioblastoma multiforme","IGC","glioblastoma",63,"Male",16.1,"1",80
+"TCGA-HT-7602","Brain Lower Grade Glioma","IGC","oligodendroglioma",21,"Male",29.8,"0",NA
+"TCGA-02-0055","Glioblastoma multiforme","IGC","glioblastoma",62,"Female",2.5,"1",80
+"TCGA-E1-A7YW","Brain Lower Grade Glioma","IGC","oligoastrocytoma",28,"Male",36.8,"1",90
+"TCGA-TQ-A7RI","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-HW-8322","Brain Lower Grade Glioma","IGC","oligodendroglioma",39,"Male",17.8,"0",NA
+"TCGA-06-0747","Glioblastoma multiforme","IGC","glioblastoma",53,"Male",2.7,"1",80
+"TCGA-HT-7476","Brain Lower Grade Glioma","IGC","astrocytoma",26,"Male",6.5,"0",NA
+"TCGA-06-5412","Glioblastoma multiforme","IGC","glioblastoma",78,"Female",4.5,"1",80
+"TCGA-06-0744","Glioblastoma multiforme","IGC","glioblastoma",66,"Male",19.5,"0",80
+"TCGA-DB-A75M","Brain Lower Grade Glioma","IGC","astrocytoma",47,"Male",10.3,"0",NA
+"TCGA-TM-A7C5","Brain Lower Grade Glioma","NCH","oligoastrocytoma",30,"Male",25.3,"0",100
+"TCGA-TQ-A7RM","Brain Lower Grade Glioma","NCH","",NA,"",NA,NA,NA
+"TCGA-DB-5273","Brain Lower Grade Glioma","IGC","astrocytoma",33,"Male",81.9,"0",NA
